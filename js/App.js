@@ -23,7 +23,7 @@ Class({
     },
     IFRAME_WIDTH : "100%",
     IFRAME_HEIGHT: "500px",
-    template     : "<div class='iframe-container' id='{id}'><iframe id='frame-{id}' src='{url}' width='{width}' height='{height}' border='0'></iframe>";
+    template     : "<div class='iframe-container' id='{id}'><iframe id='frame-{id}' src='{url}' width='{width}' height='{height}' border='0'></iframe>"
   },
 
   /**
