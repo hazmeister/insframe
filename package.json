@@ -20,10 +20,10 @@
      "url"          : "git://github.com/linkedin/insframe.git"
    },
    "dependencies"   : {
-      "express"     : ">=2.5.2",
-      "socket.io"   : ">=0.8.7",
-      "ejs"         : ">=0.6.1",
-      "colors"      : ">=0.6.0",
-      "jsface"      : ">=2.1.1"
+      "express"     : "2.5.2",
+      "socket.io"   : "0.8.7",
+      "ejs"         : "0.6.1",
+      "colors"      : "0.6.0",
+      "jsface"      : "2.1.1"
    }
 }
